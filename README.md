@@ -4,13 +4,14 @@ Instructions for react application:
 2. Extract the rbac folder and open in visual studio code
 3. Open terminal and run "npm install" command in terminal
 4. "Nodemodule" folder will be create after "npm install" command
-5. Now run the application using "npm start" command. Application ui will be opened on the browser
-6. A login page will be opened on the browser
-5. You can create user along with the role(Admin, Editor, Viewer) in the signup page.
-6. Admin can have all the right to create, update, read
-7. Editor can have access update, read pages
-8. Viewer can open read pages only
-9. Role authentication is given to the pages. So pages can be opened based on the user role
+5. Install these packages in the terminal. "npm install bootstrap", "npm install axios" , "npm install react-router-dom"
+6. Now run the application using "npm start" command. Application ui will be opened on the browser
+7. A login page will be opened on the browser
+8. You can create user along with the role(Admin, Editor, Viewer) in the signup page.
+9. Admin can have all the right to create, update, read
+10. Editor can have access update, read pages
+11. Viewer can open read pages only
+12. Role authentication is given to the pages. So pages can be opened based on the user role
 
 
 Instructions for API application:
